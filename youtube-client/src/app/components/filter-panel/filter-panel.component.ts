@@ -9,7 +9,7 @@ export class FilterPanelComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  public ngOnInit(): void {
   }
 
 }
